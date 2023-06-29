@@ -1,0 +1,16 @@
+{
+  "name": "conductor-playground",
+  "version": "1.0.0",
+  "description": "A small playground project to fetch data from the Spotify API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neonalps",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^4.11.0"
+  }
+}
